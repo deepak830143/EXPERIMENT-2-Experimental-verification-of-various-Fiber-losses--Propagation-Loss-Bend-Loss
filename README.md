@@ -39,6 +39,9 @@ V1/V2 = e [ -a (L1+L2 ) ]
 |    3             |        5v           |       9v               |
 |    5             |         5v          |       9.7              |
 
+# Calculation:
+![WhatsApp Image 2025-11-27 at 3 09 17 PM](https://github.com/user-attachments/assets/c5947514-0256-4832-aa3f-5963e30faa74)
+
 **Result:**  
 Attenuation and bending loss characteristics verified.
 
